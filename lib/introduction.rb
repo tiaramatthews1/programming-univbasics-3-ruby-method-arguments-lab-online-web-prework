@@ -1,4 +1,4 @@
 require "spec_helper"
-def introduction(Josh)
+def introducing_a_person(Josh)
   "Hi, my name is #{name}."
 end
