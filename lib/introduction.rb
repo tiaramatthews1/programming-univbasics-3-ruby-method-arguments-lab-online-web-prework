@@ -18,3 +18,9 @@ introduction_with_language("Dan", "Ember.js")
 introduction_with_language("Josh", "React")
 # > Hi, my name is Josh and I am learning to program in react.
 
+def introduction_with_language_optional(name, language)
+  puts "Hi, my name is #{name} and I am learning to program in #{languag}."
+end
+
+introduction_with_language_optional("Edwin", "Ruby")
+# > Hi, my name is Edwin and I am learning to program in Ruby.
