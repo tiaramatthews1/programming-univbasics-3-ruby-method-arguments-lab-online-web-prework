@@ -3,4 +3,7 @@ def introduction (name)
 end
 
 introduction ("Josh")
-# >
+# > Hi, my name is Josh.
+
+introduction ("Dan")
+# > Hi, my name is Dan.
