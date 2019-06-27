@@ -1,9 +1,9 @@
 require "spec_helper"
 
 def introduction("Josh")
-  "Hi, my name is #{name} and I and learning to program in ."
+  "Hi, my name is #{name}."
 end
 
-def introduction(Dan")
+def introduction("Dan")
   "Hi, my name is #{name}."
 end
