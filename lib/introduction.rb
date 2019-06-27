@@ -4,5 +4,5 @@ def introduction
   puts "Hi, my name is Josh"
 end
 
-greeting
+introduction
 #=> "Hi, my name is Josh"
