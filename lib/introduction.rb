@@ -1,4 +1,4 @@
 
-def introduction_a_person(Josh)
+def introduction(Josh)
   "Hi, my name is #{name}."
 end
