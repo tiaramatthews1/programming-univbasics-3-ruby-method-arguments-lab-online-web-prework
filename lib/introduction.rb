@@ -2,10 +2,10 @@ def introduction(name)
  puts "Hi, my name is #{name}."
 end
 
-introduction ("Josh")
+introduction("Josh")
 # > Hi, my name is Josh.
 
-introduction ("Dan")
+introduction("Dan")
 # > Hi, my name is Dan.
 
 def introduction_with_language (name, language)
