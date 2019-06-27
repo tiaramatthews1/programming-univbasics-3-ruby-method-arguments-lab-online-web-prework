@@ -3,4 +3,4 @@ def introduction
 end
 
 greeting
-#=>
+#=> "Hi, my name is Josh"
