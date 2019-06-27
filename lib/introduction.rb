@@ -1,5 +1,3 @@
-require "spec_helper"
-
-def introducing_a_person (Josh)
+def introduction (name)
  puts "Hi, my name is #{name}."
 end
