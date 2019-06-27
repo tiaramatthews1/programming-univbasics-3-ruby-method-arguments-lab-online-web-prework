@@ -8,12 +8,12 @@ introduction("Josh")
 introduction("Dan")
 # > Hi, my name is Dan.
 
-def introduction_with_language (name, language)
+def introduction_with_language(name, language)
   puts "Hi, my name is #{name} and I am learning to program in #{language}."
 end
 
-introduction_with_language ("Dan", "Ember.js")
+introduction_with_language("Dan", "Ember.js")
 # > Hi, my name is Dan and I am learning to progam in Ember.js.
 
-introduction_with_language ("Josh", "React")
+introduction_with_language("Josh", "React")
 # > Hi, my name is Josh and I am learning to program in react.
