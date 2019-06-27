@@ -15,3 +15,5 @@ end
 introduction_with_language ("Dan", "Ember.js")
 # > Hi, my name is Dan and I am learning to progam in Ember.js.
 
+introduction_with_language ("Josh", "React")
+# > Hi, my name is Josh and I am learning to program in react.
