@@ -7,4 +7,3 @@ end
 def introduction(Dan)
   "Hi, my name is Dan"
 end
-
